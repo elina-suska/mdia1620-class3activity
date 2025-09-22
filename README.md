@@ -4,7 +4,7 @@
 
 1. **Clone the activity repository:**
   ```bash
-  git clone "https://github.com/HenryBcit/mdia1620-class3-activity.git"
+  git clone "https://github.com/HenryBcit/2025-mdia1620-class3activity.git"
   ```
 2. **Run the prepare file:**
   ```bash
