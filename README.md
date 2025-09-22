@@ -1,4 +1,4 @@
-# MDIA1620 Class 2 Activity
+# MDIA1620 Class 3 Activity
 
 ## Level 1
 
